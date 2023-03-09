@@ -8,4 +8,6 @@
     display: flex;
     position: relative;
     /* выше установили ограничения для секции */
+
+    overflow: hidden;
   }

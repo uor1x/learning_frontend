@@ -1,0 +1,13 @@
+.video__iframes{
+    display: flex;
+    margin: 0 auto;
+
+    flex-direction: row;
+    column-gap: 20px;
+
+    justify-content: center;
+
+    position: relative;
+
+    top: 50px
+}
